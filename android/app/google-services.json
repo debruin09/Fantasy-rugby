@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393293847599",
+    "project_id": "super-rugby-fantasy-730b7",
+    "storage_bucket": "super-rugby-fantasy-730b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393293847599:android:11a8478cd91fd6a6f23ada",
+        "android_client_info": {
+          "package_name": "com.example.super_rugby_fantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393293847599-iiob3in09qugh9fjs27ketm19n8lks8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.super_rugby_fantasy",
+            "certificate_hash": "a8f0b2570bbd039551388f80f758a4d1cf197be2"
+          }
+        },
+        {
+          "client_id": "393293847599-u73agt7odm77btnurjr4l3neqvgmhdpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dbI5UXEETDl9343PYSjzWFkHQuBi8-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393293847599-u73agt7odm77btnurjr4l3neqvgmhdpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
